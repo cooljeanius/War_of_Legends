@@ -1,5 +1,137 @@
 War of Legends
-Change-Log v1.2.7.34
+Change-Log v1.2.7.45
+
+version v1.2.7.45
+--> Aragwaithi:
+    --> Fixed bug with Sorceress getting 80% fire RES
+    --> should be 20% fire RES
+
+version v1.2.7.44
+--> Era: added Classic Default Era
+    --> If you dont like the new Default Era having 7 factions
+
+version v1.2.7.43
+--> Northerners:
+    --> Spearmaster: added defend and ranged frames
+
+version v1.2.7.42
+--> Monsters
+    --> Added Queen Scorpion (lvl 4)
+    --> Will be featured in Electrifyre: An Aragwaith Story
+
+version v1.2.7.41
+--> Sylvans
+    --> Fix broken Ambush component of Sylvan Essence
+
+version v1.2.7.40
+--> Empowered Legends Era:
+    --> Add Outlaws faction to Era
+        --> just how long has this gone unnoticed?
+--> Outlaws:
+    --> Shadow Initiate:
+        --> fix animation bug with melee and ranged attacks
+    --> Shadow Mage:
+        --> fix animation bug with melee and ranged attacks
+    --> Shadow Lord:
+        --> fix animation bug with melee and ranged attacks
+--> Codebase:
+    --> Remove mentions of the macros:
+        --> {ENABLE_NIGHTBLADE}
+        --> {ENABLE_SAURIAN_SEER}
+        --> {ENABLE_SAURIAN_PROPHET}
+
+version v1.2.7.39
+--> Default RPG Era:
+    --> Rebels: fix missing faction icon
+    --> yeah, another bug by doofus-01's core changes.
+--> Monsters:
+    --> Monster Crab: renamed to Giant Crab
+        --> HP: 29 -> 33
+        --> MP: 5  -> 4
+        --> RES: more tanky crab like now
+        --> Cost: 17 -> 19
+--> Outlaws:
+    --> Shadow Initiate-line: added female version
+
+    --> Arcane Enforcer: new alternate advancement for Shadow Initiate
+
+    --> Shadow Initiate:
+        HP: 30 -> 27
+        MP: 5 -> 6
+        alignment: chaotic -> liminal
+        cost: 18 -> 19
+        melee: damage +1
+        ranged: damage +1
+
+    --> Shadow Mage:
+        HP: 42 -> 39
+        MP: 5 -> 6
+        XP: 120 -> 95
+        alignment: chaotic -> liminal
+        cost: 39 -> 38
+        ability: +nightstalk
+        ranged: +1 damage
+
+    --> Shadow Lord
+        HP: 53 -> 49
+        alignment: chaotic -> liminal
+        ability: +nightstalk
+        melee/type: blade -> energy
+        ranged/special: -slow
+
+version v1.2.7.38
+--> Sylvans
+   --> Elvish Ascetic: +1 gold cost, +1 ranged damage (faerie fire)
+
+version v1.2.7.37
+--> Aragwaith:
+   --> Enchantress: XP 88 -> 85
+   --> Silver Shield: HP 62 -> 65, +10% cold RES
+   --> Slayer: +1 ranged damage ( 9-4 -> 10-4 )
+   --> Sorceress: +20% fire RES
+   --> Guardian: HP 65 -> 67
+--> Deep Elves
+   --> Night Maiden line: +nocturnal regenerates+4
+   --> Night Maiden: -3 XP
+   --> Lightborn: -3 XP
+   --> Priestess: -3 XP
+   --> Matriach: +1 HP and +1 melee damage
+
+version v1.2.7.36
+--> Elementals:
+   --> Greater Water Daemon: fix missing attack icon issue
+   --> Air Daemons: fix missing projectile bug
+--> Dwarves:
+   --> Dwarvish Marksman: 
+       --> ranged attack: +marksman
+
+version v1.2.7.35
+--> AI:
+   --> Adjust NoM AI to not break if used with Deep Elves
+   --> A temporary solution until the Engine Bug is fixed
+--> Arcane Resistances Readjustment
+   --> Aberrants: +20% arcane RES
+   --> carapaces: +10% arcane RES
+   --> Aragwaith: -10% arcane RES
+   --> Minotaurs: +20% arcane RES
+   --> Unstable Elementals: arcane RES set to -10%
+   --> steelhive: healer: +20% arcane RES, ranged +10% arcane RES
+   --> vampires: +10% arcane RES
+   --> windsong: -10% arcane RES
+   --> undead mounted foot: -10% arcane RES
+   --> Elvish Avatar: -10% arcane RES
+   --> Legion Medic: arcane RES set to 10%
+   --> Legion Healer: arcane RES set to 30%
+   --> Legion Doctor: arcane RES set to 50%
+   --> Loyalist Chevalier: arcane RES set to 20%
+   --> Loyalist Crusader: arcane RES set to 30%
+   --> Elder Lich Lord: arcane RES set to -20%
+   --> Lich Lord: arcame RES set to -20%
+   --> Windsong Librarian: arcane RES set to 20%
+   --> Windsong Scribe: arcane RES set to 10%
+--> Traits:
+   --> Heroic: 50% -> 40% less XP to advance and 5% -> 10% more HP
+
 
 version 1.2.7.34
 --> Quenoth:
