@@ -1,5 +1,44 @@
 War of Legends
-Change-Log v1.2.7.45
+Change-Log v1.2.7.52
+
+version v1.2.7.52:
+--> 
+
+version v1.2.7.51:
+--> Outlaws:
+    --> rebalance the Shadow Initiate-line
+--> Steelhive:
+    --> Add Steel Dominant, a boss class campaign-only unit
+--> Loyalists:
+    --> Chevalier: add weapon special holy
+    --> Javelin Master: +2 ranged damage
+--> Campaigns:
+    --> New trait: summoned
+    --> New ability: conjuror (+20% to units with summoned trait)
+        --> This might be for the upcoming elemental units setup
+
+version v1.2.7.48
+--> Outlaws:
+    --> Arcane Enforcer: -10% cold RES, +10% blade/pierce/impact RES
+--> Deep Elves:
+    --> Forgotten Minotaur:
+        --> Fixed incorrect movement type and adjusted defence and resistance
+
+version v1.2.7.47
+--> Outlaws:
+    --> New unit tree: Rogue Hunter
+        --> role: ranged damage specialist (poison)
+        --> note: might superseed Huntsman at level 3
+
+version v1.2.7.46
+--> Code
+    --> Better UX: you can pick all dropped gear in one go now.
+    --> Changed formula for type: arcane_focus
+--> Northerners:
+    --> Orcish Shaman-line: boosted magical resistance
+    --> Orcish Marauder-line: added portrait
+--> Nightmares:
+    --> Scornful Watcher: fixed portrait not showing up
 
 version v1.2.7.45
 --> Aragwaithi:
